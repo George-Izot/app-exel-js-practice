@@ -1,6 +1,7 @@
 ## Default
 #.gulp
 .idea
+dist
 #.vscode
 #
 ## Node
